@@ -47,11 +47,16 @@ class PtnSentenceMigration extends Migration {
     // Mapped fields
     $this->addFieldMapping('uid')->defaultValue('1');
     $this->addFieldMapping('field_sentence', 'Ponca')->defaultValue('');
-    $this->addFieldMapping('field_audio', 'Audio')->defaultValue('');
+
+    $this->addFieldMapping('field_audio', 'Audio');
+    $this->addFieldMapping('field_audio:source_dir')
+      ->defaultValue(DRUPAL_ROOT . '/' . drupal_get_path('module', 'ptn_migration') . '/audio');
+
     $this->addFieldMapping('field_picture', 'Picture');
     $this->addFieldMapping('field_picture:source_dir')
       ->defaultValue(DRUPAL_ROOT . '/' . drupal_get_path('module', 'ptn_migration') . '/pictures');
     $this->addFieldMapping('field_image:alt', 'Picture');
+
     $this->addFieldMapping('field_translation', 'English')->defaultValue('');
     $this->addFieldMapping('og_group_ref', 'SectionID')->sourceMigration(array('PtnBooklet'));
 
