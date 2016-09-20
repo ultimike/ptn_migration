@@ -1,0 +1,443 @@
+SentenceID,English,Section,SectionID,Unused1,Audio,Picture,Ponca,Unused2,Folder,Unknown1,Unknown2
+1,as in the sound for dawn,Ponka sounds,1,,ahn.WAV,ahn.jpg,ahⁿ,,Ponca with Curtis,0,0
+2,as in the sound for how,Ponka sounds,1,,aowh.WAV,aowh.jpg,ᵃowʰ,,Ponca with Curtis,0,0
+3,"as in the sound for bay, bayh",Ponka sounds,1,,ay_ayh.WAV,ay_ayh.jpg,"ay,ayʰ",,Ponca with Curtis,0,0
+4,as in the sound for vehicle,Ponka sounds,1,,eeh.WAV,eeh.jpg,eeʰ,,Ponca with Curtis,0,0
+5,as in the sound for English,Ponka sounds,1,,een.WAV,een.jpg,eeⁿ,,Ponca with Curtis,0,0
+6,as in the sound for gym,Ponka sounds,1,,kym.WAV,kym.jpg,kyᵐ,,Ponca with Curtis,0,0
+7,as in the sound for bomb,Ponka sounds,1,,ohm.WAV,ohm.jpg,ohᵐ,,Ponca with Curtis,0,0
+8,as in the sound for pond,Ponka sounds,1,,ohn.WAV,ohn.jpg,ohⁿ,,Ponca with Curtis,0,0
+9,"as in hoot, pooh",Ponka sounds,1,,u_uh.WAV,u_uh.jpg,"u,uʰ",,Ponca with Curtis,0,0
+10,"(pb) the ""mixed"" sound ",Mixed consonants,2,,pb.WAV,pb.jpg,ᵖb,,Ponca with Curtis,0,0
+11,"(bp) the ""mixed"" sound ",Mixed consonants,2,,bp.WAV,bp.jpg,ᵇp,,Ponca with Curtis,0,0
+12,"(kg) the ""mixed"" sound ",Mixed consonants,2,,kg.WAV,kg.jpg,ᵏg,,Ponca with Curtis,0,0
+13,"(gk) the ""mixed"" sound ",Mixed consonants,2,,gk.WAV,gk.jpg,ᵍk,,Ponca with Curtis,0,0
+14,"(gth) the ""mixed"" sound ",Mixed consonants,2,,gth.WAV,gth.jpg,gth,,Ponca with Curtis,0,0
+15,"(td) the ""mixed"" sound ",Mixed consonants,2,,td.WAV,td.jpg,ᵗd,,Ponca with Curtis,0,0
+16,"(szh) the ""mixed"" sound ",Mixed consonants,2,,szh.WAV,szh.jpg,szh,,Ponca with Curtis,0,0
+17,"(x) ""gargle or clearing throat"" ",Mixed consonants,2,,x.WAV,x.jpg,x,,Ponca with Curtis,0,0
+18,Take this gift,Survival Ponca Phrases,3,,Take_this_gift.WAV,take_this_gift.jpg,"gah’thohⁿ, uʰ theeʰ eeʰ",,Ponca with Curtis,0,0
+19,Happy birthday,Survival Ponca Phrases,3,,Happy_birthday.WAV,Happy_Birthday.jpg,"ghee’thayʰxteeʰ, uʰmohⁿtheeⁿkah ᵗday’gah ah’theeⁿgah",,Ponca with Curtis,0,0
+20,I love you,Survival Ponca Phrases,3,,I_love_you.WAV,I_love_u.jpg,ᵖbeeʰweeʰthayʰ,,Ponca with Curtis,0,0
+21,Sick,Survival Ponca Phrases,3,,Sick.WAV,sick.jpg,wah’kaygah,,Ponca with Curtis,0,0
+22,I am sick,Survival Ponca Phrases,3,,I_am_sick.WAV,I_am_sick.jpg,"weeʰ,ohⁿwahⁿkayʰgah",,Ponca with Curtis,0,0
+23,Are you sick?,Survival Ponca Phrases,3,,Are_you_sick.WAV,are_u_sick.jpg,wah’ kayʰgahneeʰyah?,,Ponca with Curtis,0,0
+24,They are sick,Survival Ponca Phrases,3,,They_are_sick.WAV,They_are_sick.jpg,"dwah’mah, wahkayʰgah’ah’mah",,Ponca with Curtis,0,0
+25,I have been busy,Survival Ponca Phrases,3,,I_have_been_busy.WAV,busy.jpg,utheetdohⁿ haygaʰ shee ahbtheeⁿ,,Ponca with Curtis,0,0
+26,Leave me alone,Survival Ponca Phrases,3,,Leave_me_alone.WAV,leave_me_alone.jpg,shohⁿmeeh keeohⁿ thahgah!,,Ponca with Curtis,0,0
+27,I'm tired and sleepy,Survival Ponca Phrases,3,,Im_tired_and_sleepy.WAV,tired_sleepy.jpg,"ahⁿshayᵗdohⁿ,ohⁿkeeʰ,[_ ]ah’szhohⁿ ᵗdohⁿthohⁿ theeⁿgayʰ",,Ponca with Curtis,0,0
+28,Thank you,Survival Ponca Phrases,3,,Thank_you.WAV,,weeʰbthah’hohⁿ,,Ponca with Curtis,0,0
+29,Yes,Survival Ponca Phrases,3,,Yes.WAV,,ahʰ,,Ponca with Curtis,0,0
+30,No,Survival Ponca Phrases,3,,No.WAV,,ahⁿkahzheeʰ,,Ponca with Curtis,0,0
+31,What do you call that in Ponca?,Survival Ponca Phrases,3,,What_do_you_call_that_in_Ponca.WAV,,"shayʰtayʰ, eeⁿdahdohⁿ wah?",,Ponca with Curtis,0,0
+32,What do you call this in Ponca?,Survival Ponca Phrases,3,,What_do_you_call_this_in_Ponca.WAV,,"shayʰtayʰ, eeⁿdahdohⁿ wah?",,Ponca with Curtis,0,0
+33,I am fine,Survival Ponca Phrases,3,,I_am_fine.WAV,,udohⁿ btheeⁿ,,Ponca with Curtis,0,0
+34,I want to ask you something,Survival Ponca Phrases,3,,I_want_to_ask_you_something.WAV,,"eeⁿdah’dohⁿ eeʰweeʰ moⁿxhay,koᵐbthah",,Ponca with Curtis,0,0
+35,Be good today,Survival Ponca Phrases,3,,Be_good_today.WAV,,"om’bathayʰ, uʰdohⁿgohⁿthahgah",,Ponca with Curtis,0,0
+36,I didn't do it,Survival Ponca Phrases,3,,I_didnt_do_it.WAV,,"weeʰ pahxhay, mohⁿsheeⁿ",,Ponca with Curtis,0,0
+37,It's good to see you,Survival Ponca Phrases,3,,Its_good_to_see_you.WAV,,"weeʰ, weeʰᵗdohⁿbaytay, uʰdohⁿneeʰ",,Ponca with Curtis,0,0
+38,I approach in a humble way,Survival Ponca Phrases,3,,I_approach_the_humble_way.WAV,,"weeʰ, wah’ xpahtheeⁿxtee, shuʰbthay",,Ponca with Curtis,0,0
+39,I know very little,Survival Ponca Phrases,3,,I_know_very_little.WAV,,"weeʰ, juʰbahxtee, eeʰthah’pah’hohʰ",,Ponca with Curtis,0,0
+40,I don't understand why its that way,Survival Ponca Phrases,3,,I_dont_understand_why_its_that_way.WAV,,"ayʰgohⁿtayʰ, ah’nombthee",,Ponca with Curtis,0,0
+41,I have a question,Survival Ponca Phrases,3,,I_have_a_question.WAV,question_M.jpg,eeⁿdahdohⁿ eeʰweeʰmoⁿxhay koᵐbthah?,,Ponca with Curtis,0,0
+42,I have spoken,Survival Ponca Phrases,3,,I_have_spoken.WAV,,ee’thaʰay,,Ponca with Curtis,0,0
+43,That's what I thought,Survival Ponca Phrases,3,,Thats_what_I_thought.WAV,,"aygohⁿ, ayʰskembthaygohⁿ?",,Ponca with Curtis,0,0
+44,I can't stand you,Survival Ponca Phrases,3,,I_cant_stand_you.WAV,,ahweeʰmohⁿkah mohⁿsheeʰ!,,Ponca with Curtis,0,0
+45,I need sleep,Survival Ponca Phrases,3,,I_need_sleep.WAV,i_need_sleep.jpg,ah’szhohⁿ kom bthah,,Ponca with Curtis,0,0
+46,I want you to understand this,Survival Ponca Phrases,3,,I_want_you_to_understand_this.WAV,,"gah’tayʰ, nohⁿahⁿgah",,Ponca with Curtis,0,0
+47,Let's go,Survival Ponca Phrases,3,,Lets_go.WAV,,thayʰwah’thayʰ,,Ponca with Curtis,0,0
+48,May we help you?,Survival Ponca Phrases,3,,May_we_help_you.WAV,,"ahⁿ’ghuʰ theeᵏgohⁿ, ahⁿgohⁿ thah?",,Ponca with Curtis,0,0
+49,I ask you,Survival Ponca Phrases,3,,I_ask_you.WAV,,wee eeweeʰ mohⁿxhay,,Ponca with Curtis,0,0
+50,I didn't receive it,Survival Ponca Phrases,3,,I_didnt_receive_it.WAV,,bthee’zayʰ mahⁿszheeʰ,,Ponca with Curtis,0,0
+51,I don't want it,Survival Ponca Phrases,3,,I_dont_want_it.WAV,,ᵏgohᵐ bthah mahⁿszheeʰ,,Ponca with Curtis,0,0
+52,no help,Survival Ponca Phrases,3,,no_help.WAV,,uʰweeʰkohⁿ theeⁿ gayʰ,,Ponca with Curtis,0,0
+53,Are they all there?,Survival Ponca Phrases,3,,Are_they_all_there.WAV,,"bthuʰgah, ayʰdeeʰyah?",,Ponca with Curtis,0,0
+54,Ask them,Survival Ponca Phrases,3,,Ask_them.WAV,,wayʰmohⁿxah’gah,,Ponca with Curtis,0,0
+55,Good deed or done something good,Survival Ponca Phrases,3,,Good_deed_or_done_something_good.WAV,,uʰdohⁿ shkah’xay,,Ponca with Curtis,0,0
+56,Hello friend (man),Greetings,4,,Hello_friend_man.WAV,,ah’hoʰ kah’gayʰ,,Ponca with Curtis,0,0
+57,Hello (man's way),Greetings,4,,Hello_man.WAV,,ah’hoʰ,,Ponca with Curtis,0,0
+58,Hello (woman's way),Greetings,4,,Hello_woman.wav,,thah’teeʰ,,Ponca with Curtis,0,0
+59,How are you? (female and male),Greetings,4,,How_are_you_female_and_male.WAV,,ay’yohⁿ nee’yah?,,Ponca with Curtis,0,0
+60,You are here (female response),Greetings,4,,You_are_here_female_response.WAV,,thah’teeʰ!,,Ponca with Curtis,0,0
+61,Have a blessed day,Greetings,4,,Have_a_blessed_day.WAV,,"om’bah, ahᵗdahxteeʰ, ah’theeⁿgah",,Ponca with Curtis,0,0
+62,A wonderful day,Greetings,4,,A_wonderful_day.WAV,,"om’bah ah’kah, ah ᵗdah",,Ponca with Curtis,0,0
+63,Good night,Greetings,4,,Good_night.WAV,good_night.jpg,hahⁿuʰdohⁿ,,Ponca with Curtis,0,0
+64,Good morning,Greetings,4,,Good_morning.WAV,good_morning.jpg,"ha[yn]ᵍkee’chayʰ ah’kah, uʰdohⁿahkah",,Ponca with Curtis,0,0
+65,My friend,Greetings,4,,My_friend.WAV,my_friend.jpg,weeʰ kahgayʰ,,Ponca with Curtis,0,0
+66,bend it,Commands,5,,bend_it.WAV,bend_it.jpg,theeʰbayʰneeʰgah,,Ponca with Curtis,0,0
+67,count it (them),Commands,5,,count_it_them.WAV,counting.jpg,thaʰwah gah,,Ponca with Curtis,0,0
+68,go to work,Commands,5,,go_to_work.WAV,go_to_work.jpg,wahtheeʰskayʰ nohⁿszhuʰthah,,Ponca with Curtis,0,0
+69,Let's stop here,Commands,5,,Lets_stop_here.WAV,stop_here.jpg,nohⁿshtohⁿ wahthayʰ,,Ponca with Curtis,0,0
+70,Close the door,Commands,5,,Close_the_door.WAV,close_door.jpg,ᵗdeeʰszhay’bayʰthohⁿah’nohⁿsah’gah,,Ponca with Curtis,0,0
+71,Come here,Commands,5,,Come_here.WAV,come_here.jpg,ghee’gah,,Ponca with Curtis,0,0
+72,Come over to my house,Commands,5,,Come_over_to_my_house.WAV,come_to_my_house.jpg,"ᵗdeeʰweeʰweeʰᵗdah, ayᵗdah,heeʰgah",,Ponca with Curtis,0,0
+73,Open the door,Commands,5,,Open_the_door.WAV,open_door.jpg,"ᵗdeeʰszhay’bayʰkay,theeʰ’ahxah eeʰnohⁿthah’gah",,Ponca with Curtis,0,0
+74,Time to get up,Commands,5,,Time_to_get_up.WAV,wakes up.jpg,thah’shpahhohⁿ tayʰ!,,Ponca with Curtis,0,0
+75,Wash you hands,Commands,5,,Wash_you_hands.WAV,wash hands.jpg,nohⁿbayʰ gtheeʰszhah’gah,,Ponca with Curtis,0,0
+76,Sit down,Commands,5,,Sit_down.WAV,sitdown.jpg,gtheeⁿ gah,,Ponca with Curtis,0,0
+77,Put on your coat,Commands,5,,Put_on_your_coat.WAV,put_on_coat.jpg,"uʰnohⁿzsheeⁿ ᵗdohⁿgah thohⁿ, ahⁿgah",,Ponca with Curtis,0,0
+78,Get your coat,Commands,5,,Get_your_coat.WAV,get_your_coat.jpg,uʰnohⁿszheeʰ ᵗdohⁿgahthohⁿ gleesagah,,Ponca with Curtis,0,0
+79,Come this way,Commands,5,,Come_this_way.WAV,come_here.jpg,"thayʰᵗdahtheeʰ shohⁿ,eeʰgah",,Ponca with Curtis,0,0
+80,lift it,Commands,5,,lift_it.WAV,lift_it.jpg,theeʰ hohⁿ gah,,Ponca with Curtis,0,0
+81,Buy fruit,Commands,5,,Buy_fruit.WAV,buy_fruit.jpg,wahxtah theeʰweeⁿgah,,Ponca with Curtis,0,0
+82,Carry water,Commands,5,,Carry_water.WAV,carry_water.jpg,neeʰᵗduʰgthohⁿgah,,Ponca with Curtis,0,0
+83,make it jump,Commands,5,,make_it_jump.WAV,,uwahⁿseeʰ keeʰ thahgah,,Ponca with Curtis,0,0
+84,Put that up,Commands,5,,Put_that_up.WAV,,eetayʰthah’gah,,Ponca with Curtis,0,0
+85,Call them,Commands,5,,Call_them.WAV,,,,Ponca with Curtis,0,0
+86,cover up,Commands,5,,cover_up.WAV,,ahgahxahdah gah,,Ponca with Curtis,0,0
+87,Bring it,Commands,5,,Bring_it.WAV,,ah’theeⁿghee’gah,,Ponca with Curtis,0,0
+88,be serious,Commands,5,,be_serious.WAV,,ghee’theeʰay’ szhuʰbah,,Ponca with Curtis,0,0
+89,Copy it,Commands,5,,Copy_it.WAV,,ayʰ gohⁿxteeʰ weeʰ gah’xah’gah,,Ponca with Curtis,0,0
+90,Hold it,Commands,5,,Hold_it.WAV,,"uʰthohⁿgah, thayʰtayʰ",,Ponca with Curtis,0,0
+91,Start it,Commands,5,,Start_it.WAV,,"nohⁿgayʰ, eegah’skohⁿthah gah",,Ponca with Curtis,0,0
+92,Stop it,Commands,5,,Stop_it.WAV,stop_it.jpg,nohⁿshtohⁿgah,,Ponca with Curtis,0,0
+93,Take it,Commands,5,,Take_it.WAV,,ah’theeⁿ mohⁿtheeⁿgah,,Ponca with Curtis,0,0
+94,Cat,Animals,6,,Cat.WAV,cat.jpg,eeⁿgthohⁿgah,,Ponca with Curtis,0,0
+95,Eagle,Animals,6,,Eagle.WAV,eagle.jpg,xhee’thah,,Ponca with Curtis,0,0
+96,Fish,Animals,6,,Fish.WAV,fish2.jpg,huʰhuʰ,,Ponca with Curtis,0,0
+97,Horse,Animals,6,,Horse.WAV,Horse.jpg,shohⁿgayʰ,,Ponca with Curtis,0,0
+98,Male buffalo,Animals,6,,Male buffalo.WAV,buffalo.jpg,ᵗdayʰnuʰgah,,Ponca with Curtis,0,0
+99,Rabbit,Animals,6,,Rabbit.WAV,rabbit.jpg,mohⁿ’sᵗcheeⁿ’gayʰ,,Ponca with Curtis,0,0
+100,Turtle,Animals,6,,Turtle.WAV,turtle.jpg,ᵍkayʰ,,Ponca with Curtis,0,0
+101,dog,Animals,6,,dog.WAV,dog.jpg,sheeʰnuʰdah,,Ponca with Curtis,0,0
+102,coyote,Animals,6,,coyote.WAV,coyote.jpg,meeʰkahseeʰ,,Ponca with Curtis,0,0
+103,goat,Animals,6,,goat.WAV,goat.jpg,hayʰsahᵏgeeʰbah,,Ponca with Curtis,0,0
+104,wolf,Animals,6,,wolf.WAV,wolf.jpg,shohⁿᵗdohⁿgah,,Ponca with Curtis,0,0
+105,Black,Colors,7,,Black.WAV,black.jpg,sahbayʰ,,Ponca with Curtis,0,0
+106,Blue,Colors,7,,Blue.WAV,blue.jpg,ᵗduʰ,,Ponca with Curtis,0,0
+107,Brown,Colors,7,,Brown.WAV,brown.jpg,shah bayʰ,,Ponca with Curtis,0,0
+108,Gray,Colors,7,,Gray.WAV,gray.jpg,xhudayʰ,,Ponca with Curtis,0,0
+109,Green,Colors,7,,Green.WAV,green.jpg,ᵖbaysheeʰᵗduʰ,,Ponca with Curtis,0,0
+110,Red,Colors,7,,Red.WAV,red.jpg,szheeʰdayʰ,,Ponca with Curtis,0,0
+111,White,Colors,7,,White.WAV,white.jpg,skaʰ,,Ponca with Curtis,0,0
+112,Yellow,Colors,7,,Yellow.WAV,yellow.jpg,zeeʰ,,Ponca with Curtis,0,0
+113,1,Numbers,8,,1.WAV,1.jpg,weeʰ,,Ponca with Curtis,0,0
+114,2,Numbers,8,,2.WAV,2.jpg,nohⁿbah,,Ponca with Curtis,0,0
+115,3,Numbers,8,,3.WAV,3.jpg,thahbtheeⁿ,,Ponca with Curtis,0,0
+116,4,Numbers,8,,4.WAV,4.jpg,dubah,,Ponca with Curtis,0,0
+117,5,Numbers,8,,5.WAV,5.jpg,sahᵗdohⁿ,,Ponca with Curtis,0,0
+118,6,Numbers,8,,6.WAV,6.jpg,shahpay,,Ponca with Curtis,0,0
+119,7,Numbers,8,,7.WAV,7.jpg,ᵖbay thombah,,Ponca with Curtis,0,0
+120,8,Numbers,8,,8.WAV,8.jpg,ᵖbaythah btheeⁿ,,Ponca with Curtis,0,0
+121,9,Numbers,8,,9.WAV,9.jpg,szhohⁿkah,,Ponca with Curtis,0,0
+122,10,Numbers,8,,10.WAV,10.jpg,gthaybohⁿ,,Ponca with Curtis,0,0
+123,11,Numbers,8,,11.WAV,11.jpg,ahgthee weeʰ,,Ponca with Curtis,0,0
+124,12,Numbers,8,,12.WAV,12.jpg,shaʰpay nohⁿbah,,Ponca with Curtis,0,0
+125,13,Numbers,8,,13.WAV,13.jpg,ahgthee thahbtheeⁿ,,Ponca with Curtis,0,0
+126,14,Numbers,8,,14.WAV,14.jpg,ahgthee dubah,,Ponca with Curtis,0,0
+127,15,Numbers,8,,15.WAV,15.jpg,ahgthee sahᵗdohⁿ,,Ponca with Curtis,0,0
+128,16,Numbers,8,,16.WAV,16.jpg,ahgthee shahpay,,Ponca with Curtis,0,0
+129,17,Numbers,8,,17.WAV,17.jpg,ahgthee ᵖbaythombah,,Ponca with Curtis,0,0
+130,18,Numbers,8,,18.WAV,18.jpg,ahgthee ᵖbaythah btheeⁿ,,Ponca with Curtis,0,0
+131,19,Numbers,8,,19.WAV,19.jpg,ahgthee szhohⁿkah,,Ponca with Curtis,0,0
+132,20,Numbers,8,,20.WAV,20.jpg,gthaybohⁿ nohⁿbah,,Ponca with Curtis,0,0
+133,tens two plus one,Numbers,8,,Twenty_one.WAV,21.jpg,gthaybohⁿ nohⁿbah ᵍkay’deeʰ weeaʰ’xcheeʰ,,Ponca with Curtis,0,0
+134,tens four plus two,Numbers,8,,Forty_two.WAV,42.jpg,gthaybohⁿ duʰbah ᵍkay’deeʰ nohⁿbah,,Ponca with Curtis,0,0
+135,tens seven plus three,Numbers,8,,Seventy_three.WAV,73.jpg,gthaybohⁿ ᵇpaythoᵐbah ᵍkay’deeʰ thahbtheeⁿ,,Ponca with Curtis,0,0
+136,tens eight plus nine,Numbers,8,,Eighty_nine.WAV,89.jpg,gthaybohⁿ ᵇpaythahbtheeⁿ ᵍkay’deeʰ shohⁿkah,,Ponca with Curtis,0,0
+137,how many?,Counting,9,,how_many.WAV,qm.jpg,ahnohⁿwah,,Ponca with Curtis,0,0
+138,One red apple,Counting,9,,One_red_apple.WAV,apple.jpg,"shayʰ szheeʰ dayʰ, weeʰ",,Ponca with Curtis,0,0
+139,Two white dogs,Counting,9,,Two_white_dogs.WAV,2white_dogs.jpg,"sheeʰ nuʰ dah,skaʰ,nohⁿ bah",,Ponca with Curtis,0,0
+140,Three black horses,Counting,9,,Three_black_horses.WAV,3black_horses.jpg,"shohⁿ gayʰ,thah’ btheeⁿ,sah’bayʰ",,Ponca with Curtis,0,0
+141,Four yellow roses,Counting,9,,Four_yellow_roses.WAV,4_yellow_roses.jpg,"wahxᵗdah, zeeʰ duʰbah",,Ponca with Curtis,0,0
+142,Five blue flowers,Counting,9,,Five_blue_flowers.WAV,5_blue_flowers.jpg,"wahxᵗdah, ᵗduʰ,sahᵗdohⁿ",,Ponca with Curtis,0,0
+143,Six gray cats,Counting,9,,Six_gray_cats.WAV,6_gray_cats.jpg,"eeⁿgthohⁿgah, gthay’szhayʰ, shah’payʰ",,Ponca with Curtis,0,0
+144,Seven green trees,Counting,9,,Seven_green_trees.WAV,7_trees.jpg,"ᵖbay thombah, ᵖbay’szheeʰ ᵗduʰ, xthahbayʰ",,Ponca with Curtis,0,0
+145,Eight little people,Counting,9,,Eight_little_people.WAV,8_little_people.jpg,ᵖbay thah’btheeⁿ neeah’sheeⁿgah szheeⁿgah,,Ponca with Curtis,0,0
+146,Nine big buffalo,Counting,9,,Nine_big_buffalo.WAV,9_buffalos.jpg,"shohⁿkah,ᵗdayʰ ᵗdohⁿgah",,Ponca with Curtis,0,0
+147,Ten large fish,Counting,9,,Ten_large_fish.WAV,10_fishes.jpg,"gthay’bohⁿ huʰhuʰ, ᵗdohⁿgah",,Ponca with Curtis,0,0
+148,Salt,Food,10,,Salt.WAV,salt1.jpg,neeskeethay,,Ponca with Curtis,0,0
+149,Pepper,Food,10,,Pepper.WAV,pepper.jpg,wiukeehohⁿ,,Ponca with Curtis,0,0
+150,Sugar,Food,10,,Sugar.WAV,sugar.jpg,szhaʰneeⁿ,,Ponca with Curtis,0,0
+151,Butter,Food,10,,Butter.WAV,butter.jpg,bahwayʰgtheeʰ,,Ponca with Curtis,0,0
+152,Syrup,Food,10,,Syrup.WAV,syrup.jpg,szhaʰneeʰsnuʰsnuʰ,,Ponca with Curtis,0,0
+153,Cup,Food,10,,Cup.WAV,cup.jpg,neeʰeeʰthahᵗdohⁿ,,Ponca with Curtis,0,0
+154,Plate,Food,10,,Plate.WAV,plate.jpg,uʰxpayʰ,,Ponca with Curtis,0,0
+155,Knife,Food,10,,Knife.WAV,knife.jpg,mohⁿheeⁿ,,Ponca with Curtis,0,0
+156,Spoon,Food,10,,Spoon.WAV,spoon.jpg,ᵗdayhay,,Ponca with Curtis,0,0
+157,Fork,Food,10,,Fork.WAV,fork.jpg,wayʰbaʰxahpeeʰ,,Ponca with Curtis,0,0
+158,Coffee,Food,10,,Coffee.WAV,coffee.jpg,mohⁿkohⁿsahbayʰ,,Ponca with Curtis,0,0
+159,Tea,Food,10,,Tea.WAV,tea.jpg,xahdayʰ mohⁿkohⁿ,,Ponca with Curtis,0,0
+160,Milk,Food,10,,Milk.WAV,milk.jpg,mohⁿzayʰneeʰ,,Ponca with Curtis,0,0
+161,Egg,Food,10,,Egg.WAV,egg.jpg,wayʰᵗdah,,Ponca with Curtis,0,0
+162,Bread,Food,10,,Bread.WAV,bread.jpg,wahmuskayʰ,,Ponca with Curtis,0,0
+163,Lard,Food,10,,Lard.WAV,lard.jpg,wayʰgtheeʰ,,Ponca with Curtis,0,0
+164,Frybread,Food,10,,Frybread.WAV,frybread.jpg,wahsheeⁿshaygthohⁿ,,Ponca with Curtis,0,0
+165,Soup,Food,10,,Soup.WAV,soup.jpg,ᵗdahneeʰ,,Ponca with Curtis,0,0
+166,Meat juice,Food,10,,Meat_juice.WAV,MEAT_JUICE.jpg,ᵗdah niusayʰ,,Ponca with Curtis,0,0
+167,Wood,Food,10,,Wood.WAV,wood.jpg,szhohⁿ,,Ponca with Curtis,0,0
+168,fry eggs,Food,10,,fry_eggs.WAV,fryeggs.jpg,wayʰdad szhay szheeʰ,,Ponca with Curtis,0,0
+169,fry potatoes,Food,10,,fry_potatoes.WAV,friedpotatoes.jpg,nuʰ szhay szheeʰ,,Ponca with Curtis,0,0
+170,What's to eat?,Food,10,,Whats_to_eat.WAV,what_to_eat.jpg,eeⁿdahdoⁿ wiahthatay aydeeyah?,,Ponca with Curtis,0,0
+171,What's for supper?,Food,10,,Whats_for_supper.WAV,what_to_eat.jpg,"pahzay wahthatay,eeⁿdahdoⁿ,uthahoⁿhtdahⁿee kay yah hah",,Ponca with Curtis,0,0
+172,We have corn soup,Food,10,,We_have_corn_soup_Curtis Lieb.WAV,corn_soup.jpg,"wah’tohⁿ zee ᵗdah neeʰ,ahⁿ gah’theeⁿ",,Ponca with Curtis,0,0
+173,I am hungry,Food,10,,Im_hungry.WAV,Can_I _have_food.jpg,nahⁿpahⁿheeⁿ,,Ponca with Curtis,0,0
+174,Can I have some food?,Food,10,,Can_I_have_some_food.WAV,Can_I _have_food.jpg,"wah’bthah’tayʰkom’bthah,uʰshtayʰyah?",,Ponca with Curtis,0,0
+175,Can I have a drink?,Food,10,,Can_I_have_a_drink_Curtis Lieb.WAV,want_to_drink.jpg,"shay,bthahtohⁿ kom’bthah,ayyohⁿ wah?",,Ponca with Curtis,0,0
+176,Do you want water?,Food,10,,Do_you_want_water.WAV,want_to_drink.jpg,neeʰ shkohⁿnah?,,Ponca with Curtis,0,0
+177,Pass the salt please,Food,10,,Pass_the_salt_please.WAV,Pass_the_salt.jpg,"neeʰskeeʰthayʰ, thah ayyohⁿthayʰ xtee,gheeʰ thah thayʰᵗdayʰ",,Ponca with Curtis,0,0
+178,Arm,Body,11,,Arm.WAV,arm.jpg,ahʰ,,Ponca with Curtis,0,0
+179,Foot,Body,11,,Foot.WAV,foot.jpg,ceeʰ,,Ponca with Curtis,0,0
+180,Hand,Body,11,,Hand.WAV,hand.jpg,nohⁿbayʰ,,Ponca with Curtis,0,0
+181,Leg,Body,11,,Leg.WAV,leg.jpg,zsheeʰbayʰ,,Ponca with Curtis,0,0
+182,Can I go outside?,Questions,12,,Can_I_go_outside.WAV,,"ahsheeʰ bthahtayʰ,ayyohⁿwah?",,Ponca with Curtis,0,0
+183,How was school today?,Questions,12,,How_was_school_today.WAV,,omba thaywagoⁿ zaytayayohⁿwah?,,Ponca with Curtis,0,0
+184,How was your day at work?,Questions,12,,How_was_your_day_at_work.WAV,,ombah thay utheetdohⁿ tay ayohⁿwah?,,Ponca with Curtis,0,0
+185,Is it cold outside?,Questions,12,,Is_it_cold_outside.WAV,coldtweather.jpg,"ahsheeahtah, sneeyah?",,Ponca with Curtis,0,0
+186,Is it hot outside?,Questions,12,,Is_it_hot_outside.WAV,hotweather.jpg,"ahsheeatah ahkah, nahkahdayʰyah?",,Ponca with Curtis,0,0
+187,What is this?,Questions,12,,What_is_this.WAV,,"dwahtayʰ,eeⁿdahdohⁿwah?",,Ponca with Curtis,0,0
+188,What tribe are they?,Questions,12,,What_tribe_are_they.WAV,,eeⁿdah’dohⁿ uʰkeeᵗdiah’yah?,,Ponca with Curtis,0,0
+189,When did you get home?,Questions,12,,When_did_you_get_home.WAV,,ah’tohⁿkeeʰ thah’gtheeʰyah,,Ponca with Curtis,0,0
+190,Where have you been?,Questions,12,,Where_have_you_been.WAV,,ahguʰdeeʰ neeʰyah?,,Ponca with Curtis,0,0
+191,Where is the dance?,Questions,12,,Where_is_the_dance.WAV,,"wahcheeʰ gahxhayahmah, ahguʰdeeyah?",,Ponca with Curtis,0,0
+192,What do you want to eat today Mom?,Questions,12,,What_do_you_want_to_eat_today_Mom.WAV,,"nohⁿhoʰ,eeⁿdah’dohⁿ wiah’thah’tay shko[nh]nah, om’bahthayʰ?",,Ponca with Curtis,0,0
+193,When will he/she get here?,Questions,12,,When_will_he_she_get_here.WAV,,ah’tohⁿkeeʰ gtheeʰdah’theeʰ yah?,,Ponca with Curtis,0,0
+194,Where are you going?,Questions,12,,Where_are_you_going.WAV,,"ah’ghuʰ deeʰ,nayʰ yah?",,Ponca with Curtis,0,0
+195,Are you ready to go?,Questions,12,,Are_you_ready_to_go.WAV,,thahᵏgheeʰgthee’ shtohⁿwah?,,Ponca with Curtis,0,0
+196,Where is my blanket?,Questions,12,,Where_is_my_blanket.WAV,where_is_blanket.jpg,wah’eeⁿthohⁿ ahʰghuʰ’deeʰyah,,Ponca with Curtis,0,0
+197,When are you going?,Questions,12,,When_are_you_going.WAV,,ah’tohⁿkeeʰ nayʰᵗdah’bah?,,Ponca with Curtis,0,0
+198,What time is it?,Questions,12,,What_time_is_it.WAV,what_time.jpg,meeʰeeʰdombayʰthohⁿ ah’tohⁿheeʰ’yah?,,Ponca with Curtis,0,0
+199,What is your tribe?,Questions,12,,What_is_your_tribe.WAV,,"eeⁿdah’dohⁿ, uʰkeeᵗdayʰ,neeʰyah?",,Ponca with Curtis,0,0
+200,What kind of design?,Questions,12,,What_kind_of_design.WAV,,uʰgah’xayeeⁿ dah’dohⁿwah?,,Ponca with Curtis,0,0
+201,Where are they?,Questions,12,,Where_are_they.WAV,,ahguʰ’deeʰ’yah?,,Ponca with Curtis,0,0
+202,Where did you put it?,Questions,12,,Where_did_you_put_it.WAV,,ahguʰdeeʰeeʰtayʰ thahthayyah?,,Ponca with Curtis,0,0
+203,Where is it?,Questions,12,,Where_is_it.WAV,,ahguʰdeeʰyah?,,Ponca with Curtis,0,0
+204,Is this yours?,Questions,12,,Is_this_yours.WAV,,theeʰtheeʰᵗdayʰyah,,Ponca with Curtis,0,0
+205,Father (far away and you have to shout),Family Ties,13,,Father_far.wav,father_far.jpg,dah’deeʰhoʰ,,Ponca with Curtis,0,0
+206,Father (close in distance),Family Ties,13,,Father_close.wav,father_close.jpg,dah’deeʰ,,Ponca with Curtis,0,0
+207,Mother,Family Ties,13,,Mother.WAV,mother.jpg,nohⁿhoʰ,,Ponca with Curtis,0,0
+208,Son,Family Ties,13,,Son.WAV,son.jpg,weeʰszheeⁿgayʰ,,Ponca with Curtis,0,0
+209,Daughter,Family Ties,13,,Daughter.WAV,daughter.jpg,weeʰszhohⁿgayʰ,,Ponca with Curtis,0,0
+210,Aunt,Family Ties,13,,Aunt.WAV,,ᵗdee’meeʰ,,Ponca with Curtis,0,0
+211,Uncle,Family Ties,13,,Uncle.WAV,,nayʰgheeʰ,,Ponca with Curtis,0,0
+212,Granddaughter,Family Ties,13,,Granddaughter.WAV,,ᵗchush’pah,,Ponca with Curtis,0,0
+213,Grandson,Family Ties,13,,Grandson.WAV,,ᵗchush’pah,,Ponca with Curtis,0,0
+214,Grandfather,Family Ties,13,,Grandfather.WAV,,ᵗdee’gohⁿho,,Ponca with Curtis,0,0
+215,Grandmother,Family Ties,13,,Grandmother.WAV,,ᵏgohⁿhoʰ,,Ponca with Curtis,0,0
+216,Great aunt,Family Ties,13,,Great_aunt.WAV,,ᵏgohⁿhoʰ,,Ponca with Curtis,0,0
+217,Great uncle,Family Ties,13,,Great_uncle.WAV,,ᵗdee gohⁿho,,Ponca with Curtis,0,0
+218,Great granddaughter,Family Ties,13,,Great_granddaughter.WAV,,ᵗchush po,,Ponca with Curtis,0,0
+219,Great grandson,Family Ties,13,,Great_grandson.WAV,,ᵗchush po,,Ponca with Curtis,0,0
+220,Great grandfather,Family Ties,13,,Great_grandfather.WAV,,ᵗdeeʰgohⁿhoʰ,,Ponca with Curtis,0,0
+221,Great grandmother,Family Ties,13,,Great_grandmother.WAV,,ᵏgohⁿhoʰ,,Ponca with Curtis,0,0
+222,Nephew,Family Ties,13,,Nephew.WAV,,ᵗdohⁿsh’kah,,Ponca with Curtis,0,0
+223,Niece,Family Ties,13,,Niece.WAV,,ᵗdeeʰszhohⁿ,,Ponca with Curtis,0,0
+224,Sister,Family Ties,13,,Sister.WAV,,ᵗdohⁿgheeoʰ,,Ponca with Curtis,0,0
+225,Younger brother,Family Ties,13,,Younger_brother.WAV,,,,Ponca with Curtis,0,0
+226,Brother in law,Family Ties,13,,Brother_in_law.WAV,,ᵗdah’hohⁿ,,Ponca with Curtis,0,0
+227,Sister in law,Family Ties,13,,Sister_in_law.WAV,,weeʰhohⁿgah,,Ponca with Curtis,0,0
+228,Cousin,Family Ties,13,,Cousin.WAV,,szheeⁿtheeoʰ,,Ponca with Curtis,0,0
+229,All my relatives,Family Ties,13,,All_my_relatives.WAV,,aythayʰ wahⁿgheethayʰ,,Ponca with Curtis,0,0
+230,Let's go see the grandchildren,Family Ties,13,,Lets_go_see_the_grandchildren.WAV,,"weeʰᵗduʰush’pahⁿ, dombay thayʰwahthayʰ",,Ponca with Curtis,0,0
+231,Go show daddy,Family Ties,13,,Go_show_daddy.WAV,,"theeah’deeʰ, dohᵐbay keeʰthah’gah",,Ponca with Curtis,0,0
+232,Go show mama,Family Ties,13,,Go_show_mama.WAV,,"theeʰhon, dohᵐbay’keeʰthah’ gah",,Ponca with Curtis,0,0
+233,Winter,Words,14,,Winter.WAV,winter.jpg,mah’thayʰ,,Ponca with Curtis,0,0
+234,Wheat,Words,14,,Wheat.WAV,wheat.jpg,wah’muʰskayʰ,,Ponca with Curtis,0,0
+235,Again,Words,14,,Again.WAV,,sheeʰ’peeʰ,,Ponca with Curtis,0,0
+236,Alive,Words,14,,Alive.WAV,,neeʰᵗdah,,Ponca with Curtis,0,0
+237,Beyond,Words,14,,Beyond.WAV,,guʰdeeʰᵗdah’ theeʰshohⁿ,,Ponca with Curtis,0,0
+238,Credit,Words,14,,Credit.WAV,,wahgah xhay,,Ponca with Curtis,0,0
+239,creek,Words,14,,creek.WAV,,wahᵗcheeʰshkah,,Ponca with Curtis,0,0
+240,dance,Words,14,,dance.WAV,dancing.jpg,wanᵗcheeʰgaxay,,Ponca with Curtis,0,0
+241,Dead,Words,14,,Dead.WAV,dead.jpg,ᵗdayʰ,,Ponca with Curtis,0,0
+242,Enough,Words,14,,Enough.WAV,,shay’nah,,Ponca with Curtis,0,0
+243,Go,Words,14,,Go.WAV,,mohⁿtheeⁿgah,,Ponca with Curtis,0,0
+244,Hides,Words,14,,Hides.WAV,deerhides.jpg,ᵗdah hah,,Ponca with Curtis,0,0
+245,Hunting,Words,14,,Hunting.WAV,hunting.jpg,ahbah’ayʰ,,Ponca with Curtis,0,0
+246,Hurry,Words,14,,Hurry.WAV,,heeⁿtha[yn]keeʰ thah’gah!,,Ponca with Curtis,0,0
+247,Invitation,Words,14,,Invitation.WAV,,uʰkeekuʰnayʰ,,Ponca with Curtis,0,0
+248,Many,Words,14,,Many.WAV,,ah’heeʰghee,,Ponca with Curtis,0,0
+249,Mourning,Words,14,,Mourning.WAV,,wayʰᵗdayʰᵗdahⁿ,,Ponca with Curtis,0,0
+250,Received,Words,14,,Received.WAV,,ahⁿthee’zah,,Ponca with Curtis,0,0
+251,Slowly,Words,14,,Slowly.WAV,,eeⁿthahʰpeeⁿtheeⁿ,,Ponca with Curtis,0,0
+252,Straight,Words,14,,Straight.WAV,straightline.jpg,thuʰᵗdohⁿ,,Ponca with Curtis,0,0
+253,Those,Words,14,,Those.WAV,,shee’ah’mah,,Ponca with Curtis,0,0
+254,These,Words,14,,These.WAV,,gah’gayʰ,,Ponca with Curtis,0,0
+255,Yonder,Words,14,,Yonder.WAV,,shay’kayʰᵗdah,,Ponca with Curtis,0,0
+256,tomorrow,Words,14,,tomorrow.WAV,,gahsohⁿtheeʰ,,Ponca with Curtis,0,0
+257,yesterday,Words,14,,yesterday.WAV,,seeʰdahdeeʰ,,Ponca with Curtis,0,0
+258,Baby,People,15,,Baby.WAV,smiling_baby.jpg,neeʰkah szheeⁿgah,,Ponca with Curtis,0,0
+259,Boy,People,15,,Boy.WAV,boy.jpg,nuʰszheeⁿgah,,Ponca with Curtis,0,0
+260,Girl,People,15,,Girl.WAV,girl.jpg,meeⁿszheeⁿgah,,Ponca with Curtis,0,0
+261,Man,People,15,,Man.WAV,man.jpg,neeⁿahszheeⁿgah,,Ponca with Curtis,0,0
+262,Woman,People,15,,Woman.WAV,woman.jpg,wahuʰ,,Ponca with Curtis,0,0
+263,Indian,People,15,,Indian.WAV,indian.jpg,ne[ea]owʰsheeⁿoʰ kayʰtheeⁿ,,Ponca with Curtis,0,0
+264,Airplane,Nouns,16,,Airplane.WAV,plane.jpg,mohⁿdayʰ[gh]eeohʰ,,Ponca with Curtis,0,0
+265,Car,Nouns,16,,Car.WAV,car.jpg,ᵍkeepeenohⁿgayʰ,,Ponca with Curtis,0,0
+266,Pants,Nouns,16,,Pants.WAV,jeans_pants.jpg,neeⁿduʰtheeⁿsheeⁿ,,Ponca with Curtis,0,0
+267,Ship,Nouns,16,,Ship.WAV,ship.jpg,,,Ponca with Curtis,0,0
+268,Shirt,Nouns,16,,Shirt.WAV,shirt1.jpg,uʰnohⁿszheeⁿ,,Ponca with Curtis,0,0
+269,God,Culture,17,,God.WAV,,wah’kohⁿdah,,Ponca with Curtis,0,0
+270,Holy spirit,Culture,17,,Holy_spirit.WAV,,nohⁿxhay xhubayʰ,,Ponca with Curtis,0,0
+271,Spirit woman,Culture,17,,Spirit_woman.WAV,,wah nohⁿ xhay wah uʰ,,Ponca with Curtis,0,0
+272,The medicine and the pipe are inside the tipi,Culture,17,,The_medicine_and_the_pipe_are_inside_the_tipi.WAV,,"mohⁿkohⁿtay, neeneebah, aythombah, ᵗdiuʰkaythee,mohⁿ tay,eetay’thah",,Ponca with Curtis,0,0
+273,The smoke is rising to the sky,Culture,17,,The_smoke_is_rising_to_the_sky.WAV,,"thayʰ, shuʰdayʰahkah mohⁿshee ah’thah",,Ponca with Curtis,0,0
+274,"Grandfather, time is done",Culture,17,,Grandfather_time_is_done.WAV,,weeʰᵗdeeʰ gohⁿ ah’kah wayʰ theeⁿ gah[.],,Ponca with Curtis,0,0
+275,Laughing buffalo,Culture,17,,Laughing_buffalo.WAV,,ᵗdayʰ eeʰxah,,Ponca with Curtis,0,0
+276,Place the coals in the center,Culture,17,,Place_the_coals_in_the_center.WAV,,"ᵖbayʰdayʰzeeʰkay, uʰhohⁿgahᵗdayᵗdah eeʰtaythah’gah",,Ponca with Curtis,0,0
+277,Put the tobacco in the west,Culture,17,,Put_the_tobacco_in_the_west.WAV,,"neeʰneeʰkayʰ,meeʰ heeʰdayʰ ᵗdahtheeʰ shohⁿ,eeʰtayʰ thah’gah",,Ponca with Curtis,0,0
+278,Soldiers are made warriors are born,Culture,17,,Soldiers_are_made_warriors_are_born.WAV,,"wah’nohⁿshaʰmah, neeah’sheeⁿgah gah’xah sheeʰ, neeah’sheeⁿgah nah’gay theeʰ’",,Ponca with Curtis,0,0
+279,Sing the song loudly,Culture,17,,Sing_the_song_loudly.WAV,,"wahohⁿ thohⁿ, zahayʰxteeʰ ohⁿgah",,Ponca with Curtis,0,0
+280,The bundle of sage is by the water bucket,Culture,17,,The_bundle_of_sage_is_by_the_water_bucket.WAV,,"shayʰ,wah’bahxᵗdayʰthohⁿ,pbayʰszhay xhuʰᵗdah, neeʰeeʰbeeʰskayʰ, eeʰ’tayʰthah",,Ponca with Curtis,0,0
+281,The songs carry strong prayers,Culture,17,,The_songs_carry_strong_prayers.WAV,,"wah’ohⁿeeʰyay’gayʰ,wah’shkohⁿ duʰngah uʰgheeʰpeeʰ",,Ponca with Curtis,0,0
+282,The tobacco is on the west side of the tipi,Culture,17,,The_tobacco_is_on_the_west_side_of_the_tipi.WAV,,"neeʰnee’kayʰ,meeʰ heeʰdayʰtah’theeʰ shohⁿ,eeʰtayʰthah, ᵗdiuʰkayʰtheeⁿ, kayʰtah",,Ponca with Curtis,0,0
+283,There are many singers at the drum,Culture,17,,There_are_many_singers_at_the_drum.WAV,,"xhuʰ’kahah’mah ah’heeʰghee, aydeeʰ",,Ponca with Curtis,0,0
+284,There is a new moon,Culture,17,,There_is_a_new_moon.WAV,,"meeⁿ ah’kah, ᵗday’gah",,Ponca with Curtis,0,0
+285,We live because of our prayers,Culture,17,,We_live_because_of_our_prayers.WAV,,"neeʰtahthayʰgohⁿ ohʰmohⁿtheeʰgohⁿ, eeʰyahʰ wahkohⁿda[h,] ohⁿghuʰ’thah",,Ponca with Curtis,0,0
+286,Big Elk,Ponca chiefs,18,,,big_elk.jpg,,,Ponca with Curtis,0,0
+287,Big Snake,Ponca chiefs,18,,,big_snake.jpg,,,Ponca with Curtis,0,0
+288,Black Horse Hair,Ponca chiefs,18,,,black_horse_hair.jpg,,,Ponca with Curtis,0,0
+289,Hairy Bear,Ponca chiefs,18,,,hairy_bear.jpg,,,Ponca with Curtis,0,0
+290,Smoke Maker,Ponca chiefs,18,,,smoke_maker.jpg,,,Ponca with Curtis,0,0
+291,Standing Bear,Ponca chiefs,18,,,standing_bear.jpg,,,Ponca with Curtis,0,0
+292,Standing Buffalo,Ponca chiefs,18,,,standing_buffalo.jpg,,,Ponca with Curtis,0,0
+293,White Eagle & Standing Bear,Ponca chiefs,18,,,white_eagle_standing_bear.jpg,,,Ponca with Curtis,0,0
+294,White Swan Frank LaFlesche,Ponca chiefs,18,,,white_swan_frank.jpg,,,Ponca with Curtis,0,0
+295,dive in,Phrases 1,19,,dive_in.WAV,dive in.jpg,uʰgthohⁿgah gah,,Ponca with Curtis,0,0
+296,drag it,Phrases 1,19,,drag_it.WAV,dragit.jpg,theeʰsnugah,,Ponca with Curtis,0,0
+297,go fishing,Phrases 1,19,,go_fishing.WAV,gofish2.jpg,huʰgahsayʰ aʰthay,,Ponca with Curtis,0,0
+298,harvest wheat,Phrases 1,19,,harvest_wheat.WAV,harvestwheat.jpg,wahmuʰskayʰ nohⁿszhuʰthah,,Ponca with Curtis,0,0
+299,high hill,Phrases 1,19,,high_hill.WAV,high hill.jpg,pahhayʰ mohⁿshaʰahdeeʰ,,Ponca with Curtis,0,0
+300,in the future,Phrases 1,19,,in_the_future.WAV,,ombahguʰdah kaydeeʰ,,Ponca with Curtis,0,0
+301,in the past,Phrases 1,19,,in_the_past.WAV,,haʰsheeʰ kaydeeʰ,,Ponca with Curtis,0,0
+302,it's raining,Phrases 1,19,,its_raining.WAV,raining.jpg,nohⁿszheeⁿahkah,,Ponca with Curtis,0,0
+303,let him run,Phrases 1,19,,let_him_run.WAV,heruns.jpg,nohⁿgayʰ keeʰthah’gah,,Ponca with Curtis,0,0
+304,let him run (alternate),Phrases 1,19,,let_him_run_alternate.WAV,heruns.jpg,ᵗdohⁿtheeʰ keeʰthah’gah,,Ponca with Curtis,0,0
+305,let it walk,Phrases 1,19,,let_it_walk.WAV,it_walk.jpg,ᵗdohⁿdayʰ ah’hayʰ keehthahgah,,Ponca with Curtis,0,0
+306,likes to talk,Phrases 1,19,,likes_to_talk.WAV,talk_too_much.jpg,ee’yay ghee’uʰdohⁿ,,Ponca with Curtis,0,0
+307,no jobs,Phrases 1,19,,no_jobs.WAV,jobless.jpg,uʰtheeʰᵗdohⁿ theeⁿgayʰ,,Ponca with Curtis,0,0
+308,plenty work,Phrases 1,19,,plenty_work.WAV,busy.jpg,uʰtheeʰ dohⁿ ah’heeʰghee,,Ponca with Curtis,0,0
+309,nobody to see him/her,Phrases 1,19,,nobody_to_see_him_or_her.WAV,,ᵗdohᵐbayʰ theeⁿgayʰ,,Ponca with Curtis,0,0
+310,pull it,Phrases 1,19,,pull_it.WAV,pullit.jpg,theeʰdohⁿgah,,Ponca with Curtis,0,0
+311,put in pocket,Phrases 1,19,,put_in_pocket.WAV,Final-Step-Put-In-Pocket.jpg,eeᵗdeeʰszheeʰ,,Ponca with Curtis,0,0
+312,rope it,Phrases 1,19,,rope_it.WAV,rope it.jpg,uʰtheeʰsnohⁿgah,,Ponca with Curtis,0,0
+313,stack it up,Phrases 1,19,,stack_it_up.WAV,stackitup.jpg,ahkeeʰgthaʰstah eetayʰthahgah,,Ponca with Curtis,0,0
+314,stop half way,Phrases 1,19,,stop_half_way.WAV,stophalfway.jpg,hayʰbahdeeʰ nohⁿshᵗdohⁿ gah,,Ponca with Curtis,0,0
+315,the blankets,Phrases 1,19,,the_blankets.WAV,pendleton_blankets.jpg,uʰmeeʰszhayʰgayʰ,,Ponca with Curtis,0,0
+316,the fence,Phrases 1,19,,the_fence.WAV,fence2.jpg,nohⁿzaʰkay,,Ponca with Curtis,0,0
+317,this evening,Phrases 1,19,,this_evening.WAV,nebraska-evening-sunset.jpg,ᵖbahzayʰkeeʰ,,Ponca with Curtis,0,0
+318,wade water,Phrases 1,19,,wade_water.WAV,wadewater2.jpg,neeʰszhuʰhah gah,,Ponca with Curtis,0,0
+319,you broke it,Phrases 1,19,,you_broke_it.WAV,broken2.jpg,wayʰneeʰxoh,,Ponca with Curtis,0,0
+320,you name it,Phrases 1,19,,you_name_it.WAV,,theeʰahthahdahgah,,Ponca with Curtis,0,0
+321,The cedar is from the east,Phrases 1,19,,The_cedar_is_from_the_east.WAV,east_cedar.jpg,"thayʰ,mahzeeⁿ ahkah,mee’ mohⁿsheeʰ,ayᵗdah ᵗdohⁿ",,Ponca with Curtis,0,0
+322,The feather is from a golden eagle,Phrases 1,19,,The_feather_is_from_a_golden_eagle.WAV,feather_fromGoldenEagle.jpg,"mohⁿshohⁿ ahkah, xtheethah’zeeʰ, a[yt]dahᵗdohⁿ",,Ponca with Curtis,0,0
+323,The fire is hot,Phrases 1,19,,The_fire_is_hot.WAV,FireisHot.jpg,ᵖbayʰdayʰzeeʰah’kah nah’kah’dah!,,Ponca with Curtis,0,0
+324,The moon is setting,Phrases 1,19,,The_moon_is_setting.WAV,moonissetting.jpg,"meeⁿahkah, heeʰdayʰ ahthah",,Ponca with Curtis,0,0
+325,The stars are bright,Phrases 1,19,,The_stars_are_bright.WAV,stars are bright.jpg,"meeⁿkahayʰahmah, skahxtee, nohnmah",,Ponca with Curtis,0,0
+326,There is rain in the clouds,Phrases 1,19,,There_is_rain_in_the_clouds.WAV,raininclouds.jpg,"mohⁿxpeeʰ’ahmah, nohⁿszheeⁿ uʰgheepeeʰ",,Ponca with Curtis,0,0
+327,Put the rocks in a circle,Phrases 1,19,,Put_the_rocks_in_a_circle.WAV,rocksincircle.jpg,"eeⁿayʰgayʰ, uʰtheeʰshohⁿ, gahxahgah, thayʰgohⁿ",,Ponca with Curtis,0,0
+328,The night is long,Phrases 1,19,,The_night_is_long.WAV,nightislong.jpg,"hohⁿ ahkah, snay’dah",,Ponca with Curtis,0,0
+329,"The rain is slow (easy, softly)",Phrases 1,19,,The_rain_is_slow_softly.WAV,softrain.jpg,"nohⁿszheeⁿahkah, eeʰthah peeⁿtheeⁿ",,Ponca with Curtis,0,0
+330,The river is rising,Phrases 1,19,,The_river_is_rising.WAV,riverrising.jpg,"neeʰahkah, mohⁿszheeⁿ ahghee!",,Ponca with Curtis,0,0
+331,The road is rough,Phrases 1,19,,The_road_is_rough.WAV,roughroad.jpg,"uʰszhohⁿgayʰ, ahkah,ahhay ᵗdayʰxhee",,Ponca with Curtis,0,0
+332,The water is deep,Phrases 1,19,,The_water_is_deep.WAV,deepwater.jpg,"neeʰ ahkah, shkuʰbah",,Ponca with Curtis,0,0
+333,The water is outside the sweat lodge,Phrases 1,19,,The_water_is_outside_the_sweat_lodge.WAV,,"neeʰtayh, ahshee’ahᵗdah, eetay’thah",,Ponca with Curtis,0,0
+334,The water is shallow,Phrases 1,19,,The_water_is_shallow.WAV,shallowwater.jpg,"neeʰ ahkah, xhayʰbah",,Ponca with Curtis,0,0
+335,The wind is strong,Phrases 1,19,,The_wind_is_strong.WAV,strongwind.jpg,"ᵗdahdayʰahkah, wahshkohⁿ ᵗdohⁿgah!",,Ponca with Curtis,0,0
+336,You are stingy,Phrases 1,19,,You_are_stingy.WAV,stingy.jpg,"theeʰ,wah’neeʰtayʰ neeʰkayʰ!",,Ponca with Curtis,0,0
+337,Pick them up,Phrases 1,19,,Pick_them_up.WAV,pick_themup.jpg,bah’heeʰgah,,Ponca with Curtis,0,0
+338,All of them,Phrases 1,19,,All_of_them.WAV,,bthuʰgah,,Ponca with Curtis,0,0
+339,All the benches were white,Phrases 1,19,,All_the_benches_were_white.WAV,whitebeach.jpg,"ahgtheeⁿ, snayʰdayʰ, skaʰah’mah",,Ponca with Curtis,0,0
+340,Causing it to return back to me,Phrases 1,19,,Causing_it_to_return_back_to_me.WAV,,thayʰwah’sayʰkohⁿ wahbah’xuʰthah bthee’zayʰ,,Ponca with Curtis,0,0
+341,Cut by a machine,Phrases 1,19,,Cut_by_a_machine.WAV,machinecut.jpg,wayʰtheeʰheeʰdayʰ eeʰnohⁿsah,,Ponca with Curtis,0,0
+342,Give them hay,Phrases 1,19,,Give_them_hay.WAV,givethemhay.jpg,xah’dayʰ wah’eeʰgah,,Ponca with Curtis,0,0
+343,Has recovered,Phrases 1,19,,Has_recovered.WAV,,gheeʰ uʰdohⁿ,,Ponca with Curtis,0,0
+344,He gave it,Phrases 1,19,,He_gave_it.WAV,,"ayʰwah’eeʰ,tayʰ",,Ponca with Curtis,0,0
+345,He is jealous,Phrases 1,19,,He_is_jealous.WAV,,meeʰwah’dah,,Ponca with Curtis,0,0
+346,He who is jealous,Phrases 1,19,,He_who_is_jealous.WAV,,ayʰmeeⁿwahdah,,Ponca with Curtis,0,0
+347,I have received it,Phrases 1,19,,I_have_received_it.WAV,,btheeʰzay,,Ponca with Curtis,0,0
+348,I hear it,Phrases 1,19,,I_hear_it.WAV,,ah’nohⁿ’ahⁿ,,Ponca with Curtis,0,0
+349,I mean them,Phrases 1,19,,I_mean_them.WAV,,ayʰwah’wahkayʰ,,Ponca with Curtis,0,0
+350,I saw this in a dream,Phrases 1,19,,I_saw_this_in_a_dream.WAV,,"thayʰtay, ahᵗdohᵐbayʰ, eeʰthah hohᵐbthah,hohⁿdeeʰ",,Ponca with Curtis,0,0
+351,I send to you,Phrases 1,19,,I_send_to_you.WAV,,weeʰshuʰthᵃowʰeeʰ,,Ponca with Curtis,0,0
+352,I sent to you,Phrases 1,19,,I_sent_to_you.WAV,,weeʰshuʰthᵃowʰthay,,Ponca with Curtis,0,0
+353,I will,Phrases 1,19,,I_will.WAV,,ayʰgohⁿ xᵗdeeʰ,,Ponca with Curtis,0,0
+354,I will tell it to them,Phrases 1,19,,I_will_tell_it_to_them.WAV,,weeʰuʰwah bthah’deeⁿkayʰ,,Ponca with Curtis,0,0
+355,It is calm after the storm,Phrases 2,20,,It_is_calm_after_the_storm.WAV,After_storm.jpg,"ohᵐbthah’gayʰ, eeⁿchohⁿ, nohⁿszheeⁿahkah, ᵗday’dayʰ szhuʰgthah",,Ponca with Curtis,0,0
+356,I will pay you,Phrases 2,20,,Ill_pay_you.WAV,pay.jpg,"weeʰᵖbah’shay’thohⁿ,tay",,Ponca with Curtis,0,0
+357,Let's go fishing,Phrases 2,20,,Lets_go_fishing.WAV,fishing.jpg,huʰgah’saythay waʰthay,,Ponca with Curtis,0,0
+358,Race him,Phrases 2,20,,Race_him.WAV,race_him.jpg,"ᵍkeeʰbah’nohⁿgah, gah",,Ponca with Curtis,0,0
+359,Rinse it,Phrases 2,20,,Rinse_it.WAV,rinse_it.jpg,eeʰgahthuʰ szhah’gah,,Ponca with Curtis,0,0
+360,"Shall greatly rejoice, happy",Phrases 2,20,,Shall_greatly_rejoice_happy.WAV,laughing.jpg,ghee’ thayᵗdahahmah,,Ponca with Curtis,0,0
+361,The Ponca lived near the Black Hills,Phrases 2,20,,The_Ponca_lived_near_the_Black_Hills.WAV,Black_hills.jpg,"ᵇpohⁿkaʰ’kaʰ, ᵇpah’hayʰ sah’bayʰ kay’tah,gtheeⁿ",,Ponca with Curtis,0,0
+362,The buffalo has a strong heart,Phrases 2,20,,The_buffalo_has_a_strong_heart.WAV,buffalo.jpg,"ᵗdayʰah’mah,nohⁿdayʰwah’shkohⁿᵗdohⁿgah,ah’theeⁿ",,Ponca with Curtis,0,0
+363,The hawk flys in daylight,Phrases 2,20,,The_hawk_flys_in_daylight.WAV,hawk.jpg,"gthay’dohⁿweeʰ, gheeohⁿ om’bah, kayʰdeeʰ",,Ponca with Curtis,0,0
+364,The hay was plentiful,Phrases 2,20,,The_hay_was_plentiful.WAV,Hay_plentiful.jpg,"xah’dayʰ ah’heeʰghee, ayʰ’deeʰah’kah",,Ponca with Curtis,0,0
+365,The horse broke the rope,Phrases 2,20,,The_horse_broke_the_rope.WAV,broke_rope.jpg,"shohⁿgayʰ ah’kah, hahszheeⁿgah’ thohⁿ,theeʰsah thayʰthah",,Ponca with Curtis,0,0
+366,The little house was blue and white,Phrases 2,20,,The_little_house_was_blue_and_white.WAV,blue_white_house.jpg,"ᵗdeeʰszheeⁿgahthohⁿ,ᵗduʰ,ahⁿkeeʰ,skaʰ,gah’xah",,Ponca with Curtis,0,0
+367,The old man spoke to the people (large crowd),Phrases 2,20,,The_old_man_spoke_to_the_people.WAV,,"eesh’ahgiaʰmah, niaʰsheeⁿgah, ah’heeʰgheeʰ’ uʰkeeʰyah biaʰ’mah",,Ponca with Curtis,0,0
+368,The owl flys at night,Phrases 2,20,,The_owl_flys_at_night.WAV,owl_night.jpg,"ᵖbah’nah’huʰahkah,hahⁿdohⁿ,ghee’ohⁿ",,Ponca with Curtis,0,0
+369,The rattlesnake is on the path,Phrases 2,20,,The_rattlesnake_is_on_the_path.WAV,rattlesnake.jpg,"wayʰsah shah’thuʰ weeʰ,uʰhayʰtayʰdeeʰ, szhohⁿah’kah",,Ponca with Curtis,0,0
+370,The tribe walked a great distance,Phrases 2,20,,The_tribe_walked_a_great_distance.WAV,tribe_walked_distance.jpg,"uʰkeeᵗdiaʰmah, wiaʰhee’dayʰ teeah’mah",,Ponca with Curtis,0,0
+371,I walked,Phrases 2,20,,I_walked.WAV,iwalked.jpg,,,Ponca with Curtis,0,0
+372,You walk,Phrases 2,20,,You_walk.WAV,walking.jpg,theemohⁿ theeⁿgah,,Ponca with Curtis,0,0
+373,The weeds were high,Phrases 2,20,,The_weeds_were_high.WAV,high_weeds.jpg,"szhaʰmah, mohⁿshiaʰdeeʰ",,Ponca with Curtis,0,0
+374,They are going to play ball,Phrases 2,20,,They_are_going_to_play_ball.WAV,play_ball.jpg,ᵗdah’bayʰ ahⁿᵗdahmah,,Ponca with Curtis,0,0
+375,Wipe it clean,Phrases 2,20,,Wipe_it_clean.WAV,wipe_clean.jpg,bhee’kah’gah,,Ponca with Curtis,0,0
+376,We are out of food,Phrases 2,20,,We_are_out_of_food.WAV,no_food.jpg,wee’aʰthaʰtay theeⁿgay,,Ponca with Curtis,0,0
+377,Let's go home,Phrases 2,20,,Lets_go_home.WAV,gohome.jpg,"gthayʰwahthayʰ, ᵗdeeʰtayʰᵗdah",,Ponca with Curtis,0,0
+378,Let it run,Phrases 2,20,,Let_it_run.WAV,catrun.jpg,"nohⁿgayʰ, keeʰthahgah",,Ponca with Curtis,0,0
+379,Make a bundle,Phrases 2,20,,Make_a_bundle.WAV,bundleit.jpg,wahbahxtayʰ gah’xahgah,,Ponca with Curtis,0,0
+380,Make it round,Phrases 2,20,,Make_it_round.WAV,makeround3.jpg,buʰᵗdah gahxah’gah,,Ponca with Curtis,0,0
+381,Save it,Phrases 2,20,,Save_it.WAV,,ᵗdayʰthah’gah,,Ponca with Curtis,0,0
+382,Scrape the hides,Phrases 2,20,,Scrape_the_hides.WAV,scrapehides.jpg,hah’gayʰ wa[yhh]gah’skuʰgah,,Ponca with Curtis,0,0
+383,Deer hides,Phrases 2,20,,Deer_hides.WAV,deerhides.jpg,ᵗdah’xtee hah,,Ponca with Curtis,0,0
+384,You buy hides,Phrases 2,20,,You_buy_hides.WAV,youbuyhides.jpg,theehah’gayʰ neeʰweeʰ,,Ponca with Curtis,0,0
+385,The hides are drying in the sun,Phrases 2,20,,The_hides_are_drying_in_the_sun.WAV,sun_hides.jpg,"meeⁿahkah, nah’kah’dah, hahgayʰ, beeʰ’zayʰthah",,Ponca with Curtis,0,0
+386,Some of them,Phrases 2,20,,Some_of_them.WAV,,duʰbah,,Ponca with Curtis,0,0
+387,The old people say love one another,Phrases 2,20,,The_old_people_say_love_one_another.WAV,love_one_another.jpg,"eesh’ah’giaʰmah, ayʰ’gheeʰthohⁿ, thahayʰkeeʰ thahyah",,Ponca with Curtis,0,0
+388,The one who told it,Phrases 2,20,,The_one_who_told_it.WAV,,ayʰ uʰthah beeʰ,,Ponca with Curtis,0,0
+389,The spring is deep,Phrases 2,20,,The_spring_is_deep.WAV,deepspring.jpg,"neeʰhohⁿgah ah’kah,shkuʰbayʰah’kah",,Ponca with Curtis,0,0
+390,There he stands,Phrases 2,20,,There_he_stands.WAV,,shay’akaʰ gah’thuʰdeeʰ nohⁿszheeʰ,,Ponca with Curtis,0,0
+391,These are new ones,Phrases 2,20,,These_are_new_ones.WAV,,"gahgayʰ,ᵗdayʰgah",,Ponca with Curtis,0,0
+392,They are glad,Phrases 2,20,,They_are_glad.WAV,glad.jpg,ghee’thay,,Ponca with Curtis,0,0
+393,I am glad,Phrases 2,20,,I_am_glad.WAV,happy.jpg,eeʰthay,,Ponca with Curtis,0,0
+394,They went that way,Phrases 2,20,,They_went_that_way.WAV,,"guʰdah, ah’yahthah",,Ponca with Curtis,0,0
+395,Those who are below,Phrases 2,20,,Those_who_are_below.WAV,,heeʰdayʰ ᵗdᵃowʰ ah’mah,,Ponca with Curtis,0,0
+396,Tie it,Phrases 2,20,,Tie_it.WAV,tieit.jpg,ᵏgohⁿ tahⁿgah,,Ponca with Curtis,0,0
+397,Tie it up,Phrases 2,20,,Tie_it_up.WAV,tieitup.jpg,gahsh’keeʰ eeⁿnohⁿthahgah,,Ponca with Curtis,0,0
+398,Very few,Phrases 2,20,,Very_few.WAV,,,,Ponca with Curtis,0,0
+399,Very good,Phrases 2,20,,Very_good.WAV,,ahᵗdah’xdeeʰ,,Ponca with Curtis,0,0
+400,Very good for me,Phrases 2,20,,Very_good_for_me.WAV,,wee’eeⁿuʰdohⁿ,,Ponca with Curtis,0,0
+401,Very soon,Phrases 2,20,,Very_soon.WAV,,uʰxthay xcheeʰ,,Ponca with Curtis,0,0
+402,Very straight,Phrases 2,20,,Very_straight.WAV,verystraight.jpg,thuʰᵗdohⁿahʰᵗdah,,Ponca with Curtis,0,0
+403,Wash it,Phrases 2,20,,Wash_it.WAV,wash it.jpg,theeʰszhah’gah,,Ponca with Curtis,0,0
+404,We helped each other,Phrases 2,20,,We_helped_each_other.WAV,,"ahⁿguʰkeeʰkohⁿ, ohⁿgohⁿthah",,Ponca with Curtis,0,0
+405,We helped our children picking plums,Phrases 2,20,,We_helped_our_children_picking_plums.WAV,helppickplums.jpg,"ᵗdiuʰszheeʰ,ahⁿguʰ dah,ohⁿguʰkeeʰkohⁿ ᵏgohⁿ,dayʰ,ahᵐbah’ heeʰ",,Ponca with Curtis,0,0
+406,We know you very well,Phrases 2,20,,We_know_you_very_well.WAV,,ahⁿthohⁿtheeʰ bahhohⁿ,,Ponca with Curtis,0,0
+407,We see you,Phrases 2,20,,We_see_you.WAV,,ahⁿtheedohⁿbai,,Ponca with Curtis,0,0
+408,We want to come here,Phrases 2,20,,We_want_to_come_here.WAV,,thayt[hw]ahdeeʰ ahⁿgah’teeʰ ahⁿgohⁿthah,,Ponca with Curtis,0,0
+409,You remember it,Phrases 2,20,,You_remember_it.WAV,,"theeʰgheeʰ, ceeʰthahgah",,Ponca with Curtis,0,0
+410,You stand,Phrases 2,20,,You_stand.WAV,My body.jpg,waynohⁿszheeʰ,,Ponca with Curtis,0,0
+411,You tell it to me,Phrases 2,20,,You_tell_it_to_me.WAV,,theeʰeeʰweⁿ thahgah,,Ponca with Curtis,0,0
+412,Close that,Phrases 2,20,,Close_that.WAV,closeit.jpg,ah’nohⁿsah’gah,,Ponca with Curtis,0,0
+413,I wish,Phrases 2,20,,I_wish.WAV,,ayʰskohⁿ nohⁿ,,Ponca with Curtis,0,0
+414,I write to you,Phrases 2,20,,I_write_to_you.WAV,iwritetoyou.jpg,theeʰwah’wee bah’xhuʰ,,Ponca with Curtis,0,0
+415,It's very sad,Phrases 2,20,,Is_very_sad.WAV,verysad.jpg,,,Ponca with Curtis,0,0
+416,It's thick,Phrases 2,20,,Its_thick.WAV,thick.jpg,shuʰgahah’kah,,Ponca with Curtis,0,0
+417,Know it,Phrases 2,20,,Know_it.WAV,,eeʰbah’hohⁿgah,,Ponca with Curtis,0,0
+418,Last winter,Phrases 2,20,,Last_winter.WAV,winter.jpg,mah’thahdeeʰ,,Ponca with Curtis,0,0
+419,Let it go or turn it loose,Phrases 2,20,,Let_it_go_or_turn_it_loose.WAV,letingo.jpg,theeʰshtohⁿ thayʰ thah’gah,,Ponca with Curtis,0,0
+420,Run fast,Phrases 3,21,,Run_fast.WAV,run_fast.jpg,,,Ponca with Curtis,0,0
+421,I was chopping wood today,Phrases 3,21,,I_was_chopping_wood_today.WAV,chop_wood.jpg,,,Ponca with Curtis,0,0
+422,Hang it up,Phrases 3,21,,Hang_it_up.WAV,hangitup.jpg,,,Ponca with Curtis,0,0
+423,Hit the ball,Phrases 3,21,,Hit_the_ball.WAV,hittheball.jpg,,,Ponca with Curtis,0,0
+424,I finished for myself,Phrases 3,21,,I_finished_for_myself.WAV,,,,Ponca with Curtis,0,0
+425,I finished school,Phrases 3,21,,I_finished_school.WAV,,,,Ponca with Curtis,0,0
+426,I hope,Phrases 3,21,,I_hope.WAV,,,,Ponca with Curtis,0,0
+427,Nine horses were caught,Phrases 3,21,,Nine_horses_were_caught.WAV,,"shohⁿgayʰ duʰbah, uʰthohⁿahmah, shohⁿ,kayʰ’ ayʰ’diaʰmah",,Ponca with Curtis,0,0
+428,Older brother refering to something his brother has done,Phrases 3,21,,Older_brother_refering_to_something_his_brother_has_done.WAV,,,,Ponca with Curtis,0,0
+429,Turn it on,Phrases 3,21,,Turn_it_on.WAV,turniton.jpg,,,Ponca with Curtis,0,0
+430,Use it,Phrases 3,21,,Use_it.WAV,,,,Ponca with Curtis,0,0
+431,We are waiting for you,Phrases 3,21,,We_are_waiting_for_you.WAV,,,,Ponca with Curtis,0,0
+432,You should help him,Phrases 3,21,,You_should_help_him.WAV,,,,Ponca with Curtis,0,0
+433,You wish,Phrases 3,21,,You_wish.WAV,,,,Ponca with Curtis,0,0
+434,How are you today?,Phrases 3,21,,How_are_you_today.WAV,,,,Ponca with Curtis,0,0
+435,Year,Phrases 3,21,,Year.WAV,,,,Ponca with Curtis,0,0
+436,I feel good,Phrases 3,21,,I_feel_good.WAV,,,,Ponca with Curtis,0,0
+437,I will see you later,Phrases 3,21,,Ill_see_you_later.WAV,,,,Ponca with Curtis,0,0
+438,Let me see,Phrases 3,21,,Let_me_see.WAV,,,,Ponca with Curtis,0,0
+439,Help us,Phrases 3,21,,Help_us.WAV,,,,Ponca with Curtis,0,0
+440,take that off,Phrases 3,21,,take_that_off.WAV,takethatoff.jpg,,,Ponca with Curtis,0,0
+441,Go to the river and get water,Phrases 3,21,,Go_to_the_river_and_get_water.WAV,getwaterriver.jpg,,,Ponca with Curtis,0,0
+442,Pick up your clothes,Phrases 3,21,,Pick_up_your_clothes.WAV,pickupclothes.jpg,,,Ponca with Curtis,0,0
