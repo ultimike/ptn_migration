@@ -20,7 +20,7 @@ listed below, then the migration code must be modified to match.
 *  Sentence ("sentence") content type
   *  OG group content
   *  field_sentence (text)
-  *  field_audio (???)
+  *  field_audio (file)
   *  field_translation (text)
   *  field_picture (image)
   *  Automatic node title
