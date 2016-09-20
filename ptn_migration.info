@@ -3,6 +3,8 @@ description = "Module to migrate some PTN content to Drupal 7"
 package = "PTN"
 core = 7.x
 
+dependencies[] = migrate
+
 files[] = ptn_migration.module
 files[] = ptn_migration_booklet.inc
 files[] = ptn_migration_sentence.inc
