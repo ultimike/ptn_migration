@@ -58,7 +58,9 @@ class PtnSentenceMigration extends Migration {
     $this->addFieldMapping('field_image:alt', 'Picture');
 
     $this->addFieldMapping('field_translation', 'English')->defaultValue('');
-    $this->addFieldMapping('og_group_ref', 'SectionID')->sourceMigration(array('PtnBooklet'));
+
+    // This works for OG 7.x-2.x.
+    //$this->addFieldMapping('group_audience', 'SectionID')->sourceMigration(array('PtnBooklet'));
 
   }
 
@@ -67,6 +69,20 @@ class PtnSentenceMigration extends Migration {
     if (!empty($entity->og_group_ref[LANGUAGE_NONE][0]['target_id'])) {
       $entity->og_group_ref[LANGUAGE_NONE][0]['field_mode'] = 'admin';
     }
+  }
+
+  public function complete($entity, stdClass $row) {
+    // This adds a sentence node to a booklet group node, only works for OG 7.x-1.x.
+
+    // Set the sentence node values.
+    $values = array('entity type' => 'node', 'entity' => $entity);
+
+    // Get the new booklet nid and group.
+    $booklet_nid = $this->handleSourceMigration('PtnBooklet', $row->SectionID);
+    $group = og_get_group('node', $booklet_nid);
+
+    $entity = og_group($group->gid, $values);
+    node_save($entity);
   }
 
 }
